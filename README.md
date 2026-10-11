@@ -126,3 +126,4 @@ External statistics images may occasionally fail to load or be rate limited. Ref
 <!-- ===================== FOOTER BANNER ===================== -->
 
 <img width="100%" alt="UG ALOK footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:FF2020,100:080808&height=140&section=footer&text=UG%20ALOK&fontSize=34&fontColor=FFFFFF&fontAlignY=68&animation=twinkling" />
+h
