@@ -104,7 +104,7 @@ ug-alok@github:~$ _
 
 <!-- Add more links only if you want them public, e.g. email, LinkedIn, or a website. -->
 
-<!-- ===================== DISCLAIMER ===================== -->
+<!-- =====================🙏 DISCLAIMER ===================== -->
 
 <h2 align="center">// LEGAL &amp; PRIVACY DISCLAIMER</h2>
 
