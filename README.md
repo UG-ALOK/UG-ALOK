@@ -1,4 +1,4 @@
-h<!-- ===================== HEADER BANNER ===================== -->
+<!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
 <img width="100%" alt="UG ALOK header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:FF2020,100:080808&height=240&section=header&text=UG%20ALOK&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Cybersecurity%20%7C%20Security%20Tooling%20%7C%20Linux&descSize=18&descAlignY=60" />
